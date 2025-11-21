@@ -1,6 +1,6 @@
 <h1><a>Nazar Lytvyn 4CS-31</a> Lab2 </h1>
 
-### Запускаємо наш скрипт "./launch-instance.sh"
-### Підключаємось до instance "ssh -i key.pem ec2-user@ip"
-### В машині перевіряємо версії "mc --version, git --version, vim--version"
-### І перевіряємо чи працює сайт "https://ip"
+### Launch our script "./launch-instance.sh"
+### Connect to the instance "ssh -i key.pem ec2-user@ip"
+### On the machine, we check the versions: "mc --version, git --version, vim--version"
+### And we check whether the website is working "https://ip"
