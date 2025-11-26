@@ -1,7 +1,5 @@
 #!/bin/bash
 
-yum -y update
-
 yum install -y mc
 yum install -y vim
 yum install -y git
